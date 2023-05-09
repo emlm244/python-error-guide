@@ -1,6 +1,6 @@
 # Python Error Support for Code Redders 🚀🐍💻
 
-Welcome to our Python Error Support repository! This guide aims to help you navigate the twisty maze of Python errors by providing explanations and examples for some common errors you might encounter. Let's dive in and learn together! 🤓
+Welcome to my Python Error Support repository! This guide aims to help you navigate the twisty maze of Python errors by providing explanations and examples for some common errors you might encounter. Let's dive in and learn together! 🤓
 
 ## SyntaxError 🐍
 
@@ -172,6 +172,4 @@ except ValueError:
 ```
 Always validate your input and use error handling techniques to handle ValueError in your code! 🎓
 
-**We hope this guide helps you better understand and resolve common Python errors. Remember, learning from errors is an essential part of becoming a great programmer! Keep testing, keep learning, and happy coding, Code Redders! 😎🎉🚀**
-
-```python
+**Ihope this guide helps you better understand and resolve common Python errors. Remember, learning from errors is an essential part of becoming a great programmer! Keep testing, keep learning, and happy coding, Code Redders! 😎🎉🚀**
